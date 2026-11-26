@@ -1,0 +1,11 @@
+{
+  "schema_version": "LEGENDRE-DET-SYM-CERT-1.0",
+  "certificate_id": "C06_cyclotomic_vandermonde_p23",
+  "paper_reference": "Le Lan-Liu (arXiv:2611.33667v1), Sec. 2.2 Eq. (1.5)-(1.6), (2.3), (2.5) at p=23 (h_{-23}=3)",
+  "mode": "cyclotomic_vandermonde_and_forms",
+  "payload": {
+    "submode": "gauss_sum_and_vandermonde_sq",
+    "prime_p": 23,
+    "sign_cp": 1
+  }
+}

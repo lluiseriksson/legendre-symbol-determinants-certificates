@@ -1,0 +1,28 @@
+{
+  "schema_version": "LEGENDRE-DET-SYM-CERT-1.0",
+  "certificate_id": "C10_eq24_rational_collapse_p19",
+  "paper_reference": "Le Lan-Liu (arXiv:2611.33667v1), Sec. 2.6 Eq. (2.4)->(2.6) at p=19",
+  "mode": "final_evaluation_and_unit_norms",
+  "payload": {
+    "submode": "eq24_to_eq26_rational_collapse",
+    "prime_p": 19,
+    "x_values": [
+      [
+        -1,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        5,
+        3
+      ]
+    ]
+  }
+}

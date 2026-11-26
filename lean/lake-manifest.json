@@ -1,0 +1,6 @@
+{"version": "1.3.0",
+ "packagesDir": ".lake/packages",
+ "packages": [],
+ "name": "legendre_det_sym_cert",
+ "lakeDir": ".lake",
+ "fixedToolchain": false}

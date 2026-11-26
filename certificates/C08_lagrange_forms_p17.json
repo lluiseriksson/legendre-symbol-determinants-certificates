@@ -1,0 +1,10 @@
+{
+  "schema_version": "LEGENDRE-DET-SYM-CERT-1.0",
+  "certificate_id": "C08_lagrange_forms_p17",
+  "paper_reference": "Le Lan-Liu (arXiv:2611.33667v1), Sec. 2.3-2.5 Forms & Euclidean Quotients at p=17",
+  "mode": "cyclotomic_vandermonde_and_forms",
+  "payload": {
+    "submode": "lagrange_partial_fractions_forms",
+    "prime_p": 17
+  }
+}

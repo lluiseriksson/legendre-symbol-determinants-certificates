@@ -1,0 +1,133 @@
+{
+  "schema_version": "LEGENDRE-DET-SYM-CERT-1.0",
+  "certificate_id": "C03_lemma21_and_eq22_p11",
+  "paper_reference": "Le Lan-Liu (arXiv:2611.33667v1), Sec. 2.1 Lemma 2.1 & Eq. (2.2) at p=11",
+  "mode": "matrix_reduction_and_det_lemma",
+  "payload": {
+    "submode": "rank2_matrix_det_lemma",
+    "dim_m": 4,
+    "matrix_A": [
+      [
+        [
+          3,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          1
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          6,
+          1
+        ]
+      ]
+    ],
+    "vec_u": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "vec_v": [
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "scalar_a": [
+      5,
+      2
+    ],
+    "scalar_b": [
+      -11,
+      1
+    ],
+    "prime_p": 11,
+    "x": [
+      3,
+      4
+    ]
+  }
+}

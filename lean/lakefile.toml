@@ -1,0 +1,7 @@
+name = "legendre_det_sym_cert"
+version = "0.1.0"
+defaultTargets = ["LegendreDetSymCert"]
+
+[[lean_lib]]
+name = "LegendreDetSymCert"
+moreLeanArgs = ["-j", "1"]

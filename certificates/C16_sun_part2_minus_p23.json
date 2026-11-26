@@ -1,0 +1,26 @@
+{
+  "schema_version": "LEGENDRE-DET-SYM-CERT-1.0",
+  "certificate_id": "C16_sun_part2_minus_p23",
+  "paper_reference": "Le Lan-Liu (arXiv:2611.33667v1), Thm. 1.1(ii) Eq. (1.4) at p=23 (p=3 mod 4 => det=x)",
+  "mode": "chapman_and_sun_companion_families",
+  "payload": {
+    "submode": "sun_conjecture_part_ii_check",
+    "prime_p": 23,
+    "x": [
+      7,
+      11
+    ],
+    "y": [
+      -3,
+      2
+    ],
+    "z": [
+      5,
+      3
+    ],
+    "w": [
+      1,
+      7
+    ]
+  }
+}

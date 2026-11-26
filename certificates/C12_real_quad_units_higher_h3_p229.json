@@ -1,0 +1,91 @@
+{
+  "schema_version": "LEGENDRE-DET-SYM-CERT-1.0",
+  "certificate_id": "C12_real_quad_units_higher_h3_p229",
+  "paper_reference": "Le Lan-Liu (arXiv:2611.33667v1), Eq. (1.1) Higher-Unit & Class-Number h_229=3",
+  "mode": "final_evaluation_and_unit_norms",
+  "payload": {
+    "submode": "real_quadratic_unit_and_class_number",
+    "prime_units": [
+      {
+        "prime_p": 53,
+        "fund_u": [
+          7,
+          2
+        ],
+        "fund_v": [
+          1,
+          2
+        ],
+        "class_number_h": 1,
+        "a_p": [
+          7,
+          2
+        ],
+        "b_p": [
+          1,
+          2
+        ]
+      },
+      {
+        "prime_p": 61,
+        "fund_u": [
+          39,
+          2
+        ],
+        "fund_v": [
+          5,
+          2
+        ],
+        "class_number_h": 1,
+        "a_p": [
+          39,
+          2
+        ],
+        "b_p": [
+          5,
+          2
+        ]
+      },
+      {
+        "prime_p": 73,
+        "fund_u": [
+          1068,
+          1
+        ],
+        "fund_v": [
+          125,
+          1
+        ],
+        "class_number_h": 1,
+        "a_p": [
+          1068,
+          1
+        ],
+        "b_p": [
+          125,
+          1
+        ]
+      },
+      {
+        "prime_p": 229,
+        "fund_u": [
+          15,
+          2
+        ],
+        "fund_v": [
+          1,
+          2
+        ],
+        "class_number_h": 3,
+        "a_p": [
+          1710,
+          1
+        ],
+        "b_p": [
+          113,
+          1
+        ]
+      }
+    ]
+  }
+}

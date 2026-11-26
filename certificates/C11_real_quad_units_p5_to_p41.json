@@ -1,0 +1,131 @@
+{
+  "schema_version": "LEGENDRE-DET-SYM-CERT-1.0",
+  "certificate_id": "C11_real_quad_units_p5_to_p41",
+  "paper_reference": "Le Lan-Liu (arXiv:2611.33667v1), Eq. (1.1) & (2.6) Real Quadratic Units p<=41",
+  "mode": "final_evaluation_and_unit_norms",
+  "payload": {
+    "submode": "real_quadratic_unit_and_class_number",
+    "prime_units": [
+      {
+        "prime_p": 5,
+        "fund_u": [
+          1,
+          2
+        ],
+        "fund_v": [
+          1,
+          2
+        ],
+        "class_number_h": 1,
+        "a_p": [
+          1,
+          2
+        ],
+        "b_p": [
+          1,
+          2
+        ]
+      },
+      {
+        "prime_p": 13,
+        "fund_u": [
+          3,
+          2
+        ],
+        "fund_v": [
+          1,
+          2
+        ],
+        "class_number_h": 1,
+        "a_p": [
+          3,
+          2
+        ],
+        "b_p": [
+          1,
+          2
+        ]
+      },
+      {
+        "prime_p": 17,
+        "fund_u": [
+          4,
+          1
+        ],
+        "fund_v": [
+          1,
+          1
+        ],
+        "class_number_h": 1,
+        "a_p": [
+          4,
+          1
+        ],
+        "b_p": [
+          1,
+          1
+        ]
+      },
+      {
+        "prime_p": 29,
+        "fund_u": [
+          5,
+          2
+        ],
+        "fund_v": [
+          1,
+          2
+        ],
+        "class_number_h": 1,
+        "a_p": [
+          5,
+          2
+        ],
+        "b_p": [
+          1,
+          2
+        ]
+      },
+      {
+        "prime_p": 37,
+        "fund_u": [
+          6,
+          1
+        ],
+        "fund_v": [
+          1,
+          1
+        ],
+        "class_number_h": 1,
+        "a_p": [
+          6,
+          1
+        ],
+        "b_p": [
+          1,
+          1
+        ]
+      },
+      {
+        "prime_p": 41,
+        "fund_u": [
+          32,
+          1
+        ],
+        "fund_v": [
+          5,
+          1
+        ],
+        "class_number_h": 1,
+        "a_p": [
+          32,
+          1
+        ],
+        "b_p": [
+          5,
+          1
+        ]
+      }
+    ]
+  }
+}

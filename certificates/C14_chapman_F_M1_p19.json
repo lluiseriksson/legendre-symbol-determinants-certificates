@@ -1,0 +1,14 @@
+{
+  "schema_version": "LEGENDRE-DET-SYM-CERT-1.0",
+  "certificate_id": "C14_chapman_F_M1_p19",
+  "paper_reference": "Le Lan-Liu (arXiv:2611.33667v1), Sec. 3 Chapman Determinant F(x) at p=19",
+  "mode": "chapman_and_sun_companion_families",
+  "payload": {
+    "submode": "chapman_determinant_M1",
+    "prime_p": 19,
+    "x": [
+      -1,
+      4
+    ]
+  }
+}
